@@ -6,7 +6,7 @@
 I'm Muhammad Asim, a Full Stack React & React Native Developer.👨‍💻
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Solidity</p>
+<p>🌱 I'm currently learning</p> <h3>Solidity</h3>
 <p>💬 Ask me about Anything</p>
 <p>📫 How to reach me? asimm1048@gmail.com</p>
 <p>⚡ Fun Fact: I love to watch historical series</p>
