@@ -3,7 +3,7 @@
 <img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="my banner">
 
 
-I'm Muhammad Asim, a full-stack React & React Native Developer.👨‍💻
+I'm Muhammad Asim, a Full Stack React & React Native Developer.👨‍💻
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Solidity</p>
