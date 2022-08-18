@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Muhammad Asim
 
-<img width="100%" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="my banner">
+<img width="100%" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="my banner">
 
 
 I'm Muhammad Asim, a full-stack React & React Native Developer.👨‍💻
