@@ -36,9 +36,6 @@ I'm Muhammad Asim, a full-stack React & React Native Developer.👨‍💻
 </p>
 
 
-## 🏆 GitHub Trophies
-
-
 ## 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=asim1048&show_icons=true"><p>
