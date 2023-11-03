@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Muhammad Asim
 
-<img width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="my banner">
+<img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner">
 
 
 I'm a React & React Native Full Stack Developer.👨‍💻
