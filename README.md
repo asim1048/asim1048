@@ -8,7 +8,7 @@ I am Muhammad Asim, a full-stack developer specializing in MERN stack, React Nat
 <p>🌱 I'm currently learning AI</p>
 <p>💬 Ask me about Anything</p>
 <p>📫 How to reach me? asimm1048@gmail.com</p>
-<p>⚡ Fun Fact: I love to watch historical series</p>
+<p>⚡ Fun Fact: Did you know? In Pakistan, there's a popular saying: "Acha khana, acha dost, aur acha chai—zindagi ka asli maza hai!" (Good food, good friends, and good tea—this is the real joy of life!)</p>
 
 ## 💻 Skills
 <p>
