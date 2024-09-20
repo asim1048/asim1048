@@ -3,10 +3,9 @@
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="my banner">
 
 
-I'm a React & React Native Full Stack Developer.👨‍💻
-
+I am Muhammad Asim, a full-stack developer specializing in MERN stack, React Native, and Shopify app and store development.
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Solidity</p>
+<p>🌱 I'm currently learning AI</p>
 <p>💬 Ask me about Anything</p>
 <p>📫 How to reach me? asimm1048@gmail.com</p>
 <p>⚡ Fun Fact: I love to watch historical series</p>
